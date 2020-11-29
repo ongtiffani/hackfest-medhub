@@ -13,7 +13,7 @@ Medhub was created to help minimize social contact for Filipinos acquiring medic
 ### Installation 
 Use git clone to install the files 
 ```
-git clone <link>
+git clone https://github.com/ongtiffani/hackfest-medhub.git
 ```
 
 ### Features
